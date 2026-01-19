@@ -1,3 +1,7 @@
+# ⚠️ DEPRECATED
+**This project has been merged into my core systems library.**
+**Active development continues here:** [lib-systems](https://github.com/juangmerlhe/lib-systems)
+
 # memory-arena
 a simple, high-performance linear memory allocator (arena) written in c.
 
